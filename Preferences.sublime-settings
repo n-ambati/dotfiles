@@ -2,7 +2,7 @@
 // and are overridden in turn by syntax-specific settings.
 {
 	"font_face": "Source Code Pro",
-	"font_size": 14.5,
+	"font_size": 14,
 	"font_options": 
 	[
 		"no_round"
